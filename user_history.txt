@@ -1,0 +1,241 @@
+ 1 history
+ 2 sudo aptl list | grep -i python3.10
+ 3 sudo apt list | grep -i python3.10
+ 4 sudo apt install build-essential
+ 5 wget https://www.python.org/ftp/python/3.10.6/Python-3.10.6.tgz
+ 6 tar -xvzf Python-3.10.6.tgz
+ 7 cd Python-3.10.6/
+ 8 ./configure --enable-optimizations
+ 9 make altinstall
+10 cd ../
+11 mkdir python310
+12 ls
+13 cd Python-3.10.6/
+14 ./configure --prefix=$HOME/python310 --enable-optimizations
+15 make -j4
+16 make clean
+17 make
+18 wget https://sourceware.org/pub/libffi/libffi-3.4.2.tar.gz
+19 wget https://github.com/libffi/libffi/releases/download/v3.
+.1/libffi-3.4.2.tar.gz
+20 tar -xvzzf libffi-3.4.2.tar.gz
+21 cd libffi-3.4.
+22 ./configure --prefix=$HOME/libffi
+23 make -j8
+24 make install
+25 export LD_LIBRARY_PATH=$HOME/libffi/lib:$LD_LIBRARY_PATH
+26 export CDFLAGS="-I$HOME/libffi/include"
+27 export LDFLAGS="-L$HOME/libffi/lib"
+28 cd ./
+29 cd ../
+30 make -j8
+31 make clean
+32 ./configure --prefix=$HOME/python3.10 --enable-optimzations
+33 ls
+34 ./configure --prefix=$HOME/python3.10 --enable-optimzations
+35 make -j8
+36 ls $HOME/libffi/include
+37 echo $CFLAGS
+38 echo $LDFLAGS
+39 echo $LD_LIBRARY_PATH
+40 make -j8 CFLAGS="-I$HOME/libffi/include" LDFLAGS="=L$HOME/libffi/lib"
+41 echo $CFLAGS
+42 export CFLAGS="-I$HOME/libffi/include"
+43 echo $CFLAGS
+44 export LDFLAGS="=L$HOME/libffi/lib"
+45 echo $LDFLAGS
+46 export LD_LIBRARY_PATH=$HOME/libffi/lib:$LD_LIBRARY_PATH
+47 make clearn
+48 make clean
+49 make -j8
+50 make altinstall
+51 curl -O https://zlib.net/zlib-1.2.11.tar.gz
+52 tar -xvzf zlib-1.2.11.tar.gz
+53 ls
+54 tar -xvf zlib-1.2.11.tar.gz
+55 curl -O https://zlib.net/zlib-1.2.11.tar.gz
+56 file zlip-1.2.11.tar.gz
+57 file zlip-1.2.11.tar.gz
+58 wget https://zlib.net/zlib-1.2.11.tar.gz
+59 wget https://github.com/madler/zlib/archive/refs/tags/v1.2.11.tar.gz
+60 tar -xvzf v1.2.11.tar.gz
+61 ls
+62 cd zlib-1.2.11
+63 ./configure --prefix=$HOME/zlib
+64 make -j8
+65 make install
+66 export CFLAGS="$CFLAGS -I$HOME/zlib/include"
+67 echo CFLAGS
+68 echo $CFLAGS
+69 export LDFLAGS="$LDFLAGS -L$HOME/zlib/lib"
+70 export LD_LIBRARY_PATH="LD_LIBRARY_PATH:$HOME/zlib/lib"
+71 cd ../
+72 make -j8
+73 make altinstall
+74 cd ./
+75 cd ../
+76 ls
+77 python3.10/bin/python3.10
+78 python3.10/bin/python3.10 -m venv env
+79 cd Python-3.10.6
+80 make clean
+81 ./configure --prefix=$HOME/python3.10 --with-ensurepip-install --with-zlib-dir=$HOME/zlib
+82 make -j8
+83 make altinstall
+84 ls $HOME/zlib/include/zlib.h
+85 ls $HOME/lib/lib/libz.*
+86 make clean
+87 ./configure --prefix=$HOME/python3.10 --CPPFLAGS="-I$HOME/zlib/include" LDFLAGS="-L$HOME/zlib/lib"
+88 make -j8
+89 make altinstall
+90 cd ../
+91 ls
+92 python3.10/bin/python3.10
+93 python3.10/bin/python3.10 -m pip install label-studio
+94 python3.10/bin/python3.10 -m pip --version
+95 python3.10/bin/python3.10 --version
+96 python3.10/bin/python3.10 -m venv label_studio_env
+97 ls
+98 source label_studio/bin/activate
+99 python--version
+100 python --version
+101 pip install label-studio
+102 wget https://openssl.org/source/openssl-1.1.1w.tar.gz
+103 deactivate
+104 ls
+105 tar -xvzf openssl-1.1.1w.tar.gz
+106 cd openssl-1.1.1w
+107 ./config --prefix=$HOME/openssl --openssldir=$HOME/openssl
+108 make -j8
+109 make install
+110 cd $HOME/Python-3.10.0
+111 cd ../
+112 ;s
+113 ls
+114 cd Python-3.10.6
+115 export LDFLAGS="-L$HOME/openssl/lib:$$LDFLAGS"
+116 export CPPFLAGS='I$HOME/openssl/include:$CPPFLAGS"
+117 export PKG_CONFIG_PATH="$HOME/openssl/lib/pkgconfig:$PKG_CONFIG_PATH"
+118 make clean
+119 ./config --prefix=$HOME/python3.10_new --enable-optimizations LDFLAGS="-L$HOME/openssl/lib -L$HOME/zlib/lib" CPPFLAGS="-I$HOME/openssl/zlib/include" PKG_CONFIG_PATH="$HOME/openssl/lib/pkgconfig:$HOME/zlib/lib/pkgconfig"
+120 make -j8
+121 make altinstall
+122 cd ../
+123 ls
+124 ls -1
+125 python3.10_new/bin/python3.10 --version
+126 python3.10_new/bin/python3.10 -m pip --version
+127 python3.10_new/bin/python3.10 -m pip install label-studio
+128 ls $HOME/openssl/lib
+129 cd Python-3.10.6/
+130 make clean
+131 export LDFLAGS="-L$HOME/openssl/lib -L$HOME/zlib/lib"
+132 export CPPFLAGS="-I$HOME/openssl/include -I$HOME/zlib/include"
+133 export PKG_CONFIG_PATH="$HOME/openssl/lib/pkgconfig:$HOME/zlib/lib/pkgconfig"
+134 export LD_LIBRARY="$HOME/openssl/lib:$HOME/zlib/lib$LD_LIBRARY_PATH"
+135 ./configure --prefix=$HOME/python3.10_new --enable-optimizations LDFLAGS="$LDFLAGS" CPPFLAGS="$CPPFLAGS" PKG_CONFIG_PATH="$PKG_CONFIG_PATH"
+136 make -j8
+137 make altinstall
+138 python3.10_new/bin/python3.10 -m pip --version
+139 $HOME/python3.10_new/bin/python3.10 -m pip --version
+140 python3.10_new/bin/python3.10 -m pip install label-studio
+141 ldd $HOME/python3.10_new/bin
+142 make clean
+143 ./configure --prefix=$HOME/python3.10_new --enable-optimizations --with-openssl=$HOME/openssl LDFLAGS="$LDFLAGS" CPPFLAGS="$CPPFLAGS" PKG_CONFIG_PATH="$PKG_CONFIG_PATH"
+144 make -j8
+145 $HOME/python3.10_new/bin/python3.10 -m venv $HOME/sttai
+146 source $HOME/sttai/bin/activate
+147 pip --version
+148 pip install label-studio
+149 deactivate
+150 cd ../
+151 ls
+152 python3.10_new/bin/python3.10 -m pip install label-studio
+153 export LDFLAGS="-L$HOME/openssl/lib -L$HOME/zlib/lib"
+154 export CPPFLAGS="-I$HOME/openssl/include -I$HOME/zlib/include"
+155 export PKG_CONFIG_PATH="$HOME/openssl/lib/pkgconfig:$HOME/zlib/lib/pkgconfig"
+156 export LD_LIBRARY="$HOME/openssl/lib:$HOME/zlib/lib$LD_LIBRARY_PATH"
+157 cd Python-3.10.6/
+158 make clearn
+159 make clean
+160 ./configure --prefix=$HOME/python3.10_new --enable-optimizations --with-openssl=$HOME/openssl LDFLAGS="$LDFLAGS" CPPFLAGS="$CPPFLAGS" PKG_CONFIG_PATH="$PKG_CONFIG_PATH"
+161 ./configure --prefix=$HOME/python3.10_new --enable-optimizations --with-openssl=$HOME/openssl LDFLAGS="$LDFLAGS" CPPFLAGS="$CPPFLAGS" PKG_CONFIG_PATH="$PKG_CONFIG_PATH"
+162 make -j8
+163 make altinstall
+164 ldd $HOME/python3.10_new/bin | grep ssl
+165 ldd $HOME/python3.10_new/bin
+166 $HOME/python3.10_new/bin
+167 cd ../
+168 python3.10_new/bin/python3.10 -m venv n1
+169 source n1/bin/activate
+170 python
+171 python -m ensurepip --upgrade
+172 pip install label-studio
+173 label-studio
+174 wget https://sqlite.org/2023/sqlite-autoconf-3380900.tar.gz
+175 wget https://sqlite.org/2023/sqlite-autoconf-3390000.tar.gz
+176 wget https://sqlite.org/2025/sqlite-autoconf-3480000.tar.gz
+177 tar -xvzf sqlite-autoconf-3480000.targz
+178 cd sqlite-autoconf-3480000/
+179 ./configure --prefic=$HOME/SQLite
+180 make -j8
+181 deactivate
+182 make install
+183 cd ../
+184 export LDFLAGS="$LDFLAGS -L$HOME/SQLite/lib"
+185 export CPPFLAGS="$CPPFLAGS -I$HOME/SQLite/include"
+186 export PKG_CONFIG_PATH="$PKG_CONFIG_PATH:$HOME/sqlite/lib/pkgconfig"
+187 export LD_LIBRARY_PATH="$LI_LIBRARY_PATH:$HOME/sqlite/lib"
+188 cd Python-3.10.6/
+189 make clean
+190 ./configure --prefix=$HOME/python3.10_new_1 --enable-optimizations --with-ensurepip=install --with-sqlite-$HOME/sqlite --with-openssl=$HOME/openssl LDFLAGS=$LDFLAGS CPPFLAGS=$CPPFLAGS PKG_CONFIG_PATH="$PKG_CONFIG_PATH"
+191 make -j8
+192 make altinstall 
+193 cd ../
+194 ls
+195 python3.10_new_1/bin/python3.10 -m ensurepip
+196 python3.19_new_1/bin/python3.10 -m venv final
+197 source final/bin/activate
+198 pip install label-studio
+199 label-studio
+200 cd Python-3.10.6/
+201 ls
+202 cd ../
+203 ls
+204 cd Python-3.10.6/
+205 ./configure --prefix=$HOME/python3.10_new_1 --enable-optimizations --with-ensurepip=install --with-ffi=$HOME/libffi --with-sqlite-$HOME/sqlite --with-openssl=$HOME/openssl LDFLAGS=$LDFLAGS CPPFLAGS=$CPPFLAGS PKG_CONFIG_PATH="$PKG_CONFIG_PATH"
+206 make -j8
+207 make altinstall
+208 deactivate
+209 cd ../
+210 ls
+211 python3.10_new_1/bin/python3.10
+212 cd Python3.10.6/
+213 make clean 
+214 ./configure --prefix=$HOME/python3.10_new_1 --enable-optimizations --with-ensurepip=install --with-ffi=$HOME/libffi --with-sqlite-$HOME/sqlite --with-openssl=$HOME/openssl LDFLAGS=$LDFLAGS CPPFLAGS=$CPPFLAGS PKG_CONFIG_PATH="$PKG_CONFIG_PATH"
+215 make -j8
+216 make altinstall
+217 cd ../
+218 ls 
+219 python3.10_new_1/bin.python3.10
+220 ls $HOME/libffi/lib
+221 exho $LDFLAGS
+222 export LDFLAGS="$LDFLAGS -L$HOME/libffi/lib"
+223 export CPPLAGS="$CPPFLAGS -L$HOME/libffi/include"
+224 export PKG_CONFIG_PATH="$PKG_CONFIG_PATH -L$HOME/libffi/lib/pkgconfig"
+225 export LD_LIBRARY_PATH="$LD_LIBRARY_PATH -L$HOME/libffi/lib"
+226 cd Python-3.10.6/
+227 make clean
+228 ./configure --prefix=$HOME/python3.10_new_1 --enable-optimizations --with-ensurepip=install --with-ffi=$HOME/libffi --with-sqlite-$HOME/sqlite --with-openssl=$HOME/openssl LDFLAGS=$LDFLAGS CPPFLAGS=$CPPFLAGS PKG_CONFIG_PATH="$PKG_CONFIG_PATH"
+229 make -j8
+230 make altinstall
+231 cd ../
+232 ls
+233 python3.10_new_1/bin/python
+234 python3.10_new_1/bin/python3.10
+235 python3.10_new_1/bin/python -m venv final_env
+236 source final_env/Scripts/activate
+237 source final_env/bin/activate
+238 pip install label-studio
+239 label-studio
+240 ls
