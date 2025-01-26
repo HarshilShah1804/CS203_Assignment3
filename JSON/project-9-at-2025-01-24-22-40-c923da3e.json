@@ -1,0 +1,3542 @@
+[
+  {
+    "text": "\"विदेश मंत्रालय, Commerce & Trade और ASSOCHAM जैसे इंडस्ट्री के संगठनों के बीच बेहतर तालमेल आज समय की मांग है।\"",
+    "id": 14558,
+    "label": [
+      {
+        "start": 1,
+        "end": 6,
+        "text": "विदेश",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 15,
+        "text": "मंत्रालय",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 25,
+        "text": "Commerce",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 27,
+        "text": "&",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 33,
+        "text": "Trade",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 45,
+        "text": "ASSOCHAM",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 50,
+        "text": "जैसे",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 60,
+        "text": "इंडस्ट्री",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 63,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 71,
+        "text": "संगठनों",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 74,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 78,
+        "text": "बीच",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 84,
+        "text": "बेहतर",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 91,
+        "text": "तालमेल",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 94,
+        "text": "आज",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 98,
+        "text": "समय",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 101,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 102,
+        "end": 106,
+        "text": "मांग",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 107,
+        "end": 109,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 110,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 41,
+    "created_at": "2025-01-24T17:06:29.772259Z",
+    "updated_at": "2025-01-24T17:06:29.772259Z",
+    "lead_time": 255.01300000000003
+  },
+  {
+    "text": "पुर्तगाल के महान नेता Shri Mario Soares 1992 में भारत के गणतंत्र दिवस के मुख्‍य मेहमान के रूप में पधारे थे।",
+    "id": 14559,
+    "label": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "पुर्तगाल",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "text": "महान",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 17,  
+        "end": 21,
+        "text": "नेता",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "text": "Shri",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "text": "Mario",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "text": " Soares",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 44,
+        "text": "1992",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 48,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 53,
+        "text": "भारत",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 56,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 64,
+        "text": "गणतंत्र",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 69,
+        "text": "दिवस",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 72,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 79,
+        "text": "मुख्‍य",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 86,
+        "text": "मेहमान",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 89,
+        "text": " के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 93,
+        "text": " रूप",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 97,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 103,
+        "text": "पधारे",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 104,
+        "end": 106,
+        "text": "थे",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 106,
+        "end": 107,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 42,
+    "created_at": "2025-01-24T17:09:25.775434Z",
+    "updated_at": "2025-01-24T17:09:25.775434Z",
+    "lead_time": 143.393
+  },
+  {
+    "text": "हमने काठमांडू को भारत से रेल द्वारा जोड़ने के project के DPR पर काम करना शुरु कर दिया है।",
+    "id": 14560,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "हमने",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 13,
+        "text": "काठमांडू",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 21,
+        "text": "भारत",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "text": "रेल",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "text": "द्वारा",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "text": "जोड़ने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 45,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 53,
+        "text": "project",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 56,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "text": "DPR",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 63,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 67,
+        "text": "काम",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 72,
+        "text": "करना",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 77,
+        "text": "शुरु",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 80,
+        "text": "कर",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 85,
+        "text": "दिया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 88,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 89,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 23,
+    "created_at": "2025-01-23T11:27:10.878647Z",
+    "updated_at": "2025-01-23T11:27:10.878647Z",
+    "lead_time": 525.084
+  },
+  {
+    "text": "इस संदर्भ में International North-South Transport Corridor के अंतर्गत हमारा सहयोग हमारी सहभागिता को एक महत्वपूर्ण दिशा प्रदान करेगा।",
+    "id": 14561,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "इस",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 9,
+        "text": "संदर्भ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 27,
+        "text": "International",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "text": "North-South",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "text": "Transport",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 58,
+        "text": "Corridor",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 61,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 69,
+        "text": "अंतर्गत",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 75,
+        "text": "हमारा",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 81,
+        "text": "सहयोग",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 87,
+        "text": "हमारी",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 96,
+        "text": "सहभागिता",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 99,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 102,
+        "text": "एक",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 113,
+        "text": "महत्वपूर्ण",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 114,
+        "end": 118,
+        "text": "दिशा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 125,
+        "text": "प्रदान",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 126,
+        "end": 131,
+        "text": "करेगा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 131,
+        "end": 132,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 24,
+    "created_at": "2025-01-23T11:37:40.675984Z",
+    "updated_at": "2025-01-23T11:37:40.675984Z",
+    "lead_time": 628.059
+  },
+  {
+    "text": "आने वाली Eurasian Economic Union के साथ FTA negotiations भी हमारे आर्थिक सहयोग को और बल देगी।",
+    "id": 14562,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "आने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 8,
+        "text": "वाली",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 17,
+        "text": "Eurasian",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 26,
+        "text": "Economic",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "text": "Union",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 35,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 39,
+        "text": "साथ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 43,
+        "text": "FTA",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 56,
+        "text": "negotiations",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 59,
+        "text": "भी",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 65,
+        "text": "हमारे",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 72,
+        "text": "आर्थिक",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 78,
+        "text": "सहयोग",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 81,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 84,
+        "text": "और",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 87,
+        "text": " बल",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 92,
+        "text": " देगी",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 93,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 25,
+    "created_at": "2025-01-24T04:06:30.495951Z",
+    "updated_at": "2025-01-24T04:06:30.495951Z",
+    "lead_time": 590.85
+  },
+  {
+    "text": "\"अफगानिस्तान, Middle East तथा Asia Pacific पर दोनों देशों की विचारधाराओं में समानता है।\"",
+    "id": 14563,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "\"",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 1,
+        "end": 12,
+        "text": "अफगानिस्तान",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 13,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "text": "Middle",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 25,
+        "text": "East",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 29,
+        "text": "तथा",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 34,
+        "text": "Asia",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 42,
+        "text": "Pacific",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 45,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 51,
+        "text": "दोनों",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 57,
+        "text": "देशों",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 60,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 72,
+        "text": "विचारधाराओं",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 76,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 83,
+        "text": "समानता",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 86,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 87,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 88,
+        "text": "\"",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 26,
+    "created_at": "2025-01-24T04:09:57.351410Z",
+    "updated_at": "2025-01-24T04:09:57.351410Z",
+    "lead_time": 205.703
+  },
+  {
+    "text": "\"भारत तथा रूस, BRICS तथा G-20 में भी लगातार समन्वय बनाए हुए हैं।\"",
+    "id": 14564,
+    "label": [
+      {
+        "start": 0,
+        "end": 1,
+        "text": "\"",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 1,
+        "end": 5,
+        "text": "भारत",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "text": "तथा",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "text": "रूस",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "text": "BRICS",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "text": "तथा",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 29,
+        "text": "G-20",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "text": "भी",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 43,
+        "text": "लगातार",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 50,
+        "text": "समन्वय",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 55,
+        "text": "बनाए",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 59,
+        "text": "हुए",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 63,
+        "text": "हैं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 64,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 65,
+        "text": "\"",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 27,
+    "created_at": "2025-01-24T04:12:57.513022Z",
+    "updated_at": "2025-01-24T04:12:57.513022Z",
+    "lead_time": 177.936
+  },
+  {
+    "text": "Shanghai Cooperation Organization में रूस के सुदृढ़ नेतृत्व में हम दोनों देश क्षेत्रीय सहयोग की नवरचना में संलग्न हैं।",
+    "id": 14565,
+    "label": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "Shanghai",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 20,
+        "text": "Cooperation",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 33,
+        "text": "Organization",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 37,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 41,
+        "text": "रूस",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 44,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 51,
+        "text": "सुदृढ़",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 59,
+        "text": "नेतृत्व",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 63,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 66,
+        "text": "हम",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 72,
+        "text": "दोनों",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 76,
+        "text": "देश",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 86,
+        "text": "क्षेत्रीय",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 92,
+        "text": "सहयोग",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 95,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 96,
+        "end": 102,
+        "text": "नवरचना",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 106,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 107,
+        "end": 113,
+        "text": "संलग्न",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 114,
+        "end": 117,
+        "text": "हैं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 117,
+        "end": 118,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 28,
+    "created_at": "2025-01-24T04:14:39.257530Z",
+    "updated_at": "2025-01-24T04:14:39.257530Z",
+    "lead_time": 98.272
+  },
+  {
+    "text": "आज ही यहां प्रगति मैदान में बन रहे International Exhibition-cum-Convention Centreके 4 प्रदर्शनी हॉल का लोकार्पण भी हुआ है।",
+    "id": 14566,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "आज",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "text": "ही",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "text": "यहां",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "text": "प्रगति",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "text": "मैदान",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "text": "बन",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "text": "रहे",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 48,
+        "text": "International",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 74,
+        "text": "Exhibition-cum-Convention",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 81,
+        "text": "Centre",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 83,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 85,
+        "text": "4",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 95,
+        "text": "प्रदर्शनी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 96,
+        "end": 99,
+        "text": "हॉल",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 102,
+        "text": "का",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 111,
+        "text": "लोकार्पण",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 114,
+        "text": "भी",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 118,
+        "text": "हुआ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 121,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 121,
+        "end": 122,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 34,
+    "created_at": "2025-01-24T09:38:24.696479Z",
+    "updated_at": "2025-01-24T09:38:24.696479Z",
+    "lead_time": 105.926
+  },
+  {
+    "text": "\"priority programs में प्रधानमंत्री फसल बीमा योजना, दीनदयाल उपाध्‍याय कौशल योजना, प्रधानमंत्री आवास योजना और digital payments, इनके प्रचार-प्रसार के लिए भी award दिए गए।\"",
+    "id": 14567,
+    "label": [
+      {
+        "start": 1,
+        "end": 9,
+        "text": "priority",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 18,
+        "text": "programs",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 35,
+        "text": "प्रधानमंत्री",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 39,
+        "text": "फसल",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 44,
+        "text": "बीमा",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 50,
+        "text": "योजना",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 51,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 59,
+        "text": "दीनदयाल",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 69,
+        "text": "उपाध्‍याय",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 74,
+        "text": "कौशल",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 80,
+        "text": "योजना",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 81,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 94,
+        "text": "प्रधानमंत्री",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 99,
+        "text": "आवास",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 105,
+        "text": "योजना",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 106,
+        "end": 108,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 116,
+        "text": "digital",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 117,
+        "end": 125,
+        "text": "payments",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 125,
+        "end": 126,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 127,
+        "end": 131,
+        "text": "इनके",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 132,
+        "end": 145,
+        "text": "प्रचार-प्रसार",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 146,
+        "end": 148,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 149,
+        "end": 152,
+        "text": "लिए",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 153,
+        "end": 155,
+        "text": "भी",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 156,
+        "end": 161,
+        "text": "award",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 162,
+        "end": 165,
+        "text": "दिए",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 166,
+        "end": 168,
+        "text": "गए",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 168,
+        "end": 169,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 35,
+    "created_at": "2025-01-24T09:41:50.417331Z",
+    "updated_at": "2025-01-24T09:41:50.417331Z",
+    "lead_time": 204.178
+  },
+  {
+    "text": "इस बहुआयामी प्रयास में भारत की प्राथमिकताओं और आवश्यकताओं के लिए जर्मनी जैसे technological और Economic Power House की क्षमताएं उपयोगी होंगी।",
+    "id": 14568,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "इस",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 11,
+        "text": "बहुआयामी",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 18,
+        "text": "प्रयास",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 27,
+        "text": "भारत",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 43,
+        "text": "प्राथमिकताओं",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 46,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 57,
+        "text": "आवश्यकताओं",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 60,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 64,
+        "text": "लिए",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 71,
+        "text": "जर्मनी",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 76,
+        "text": "जैसे",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 90,
+        "text": "technological",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 93,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 102,
+        "text": "Economic",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 108,
+        "text": "Power",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 114,
+        "text": "House",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 117,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 118,
+        "end": 126,
+        "text": "क्षमताएं",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 127,
+        "end": 133,
+        "text": "उपयोगी",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 134,
+        "end": 139,
+        "text": "होंगी",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 139,
+        "end": 140,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36,
+    "created_at": "2025-01-24T09:44:23.399963Z",
+    "updated_at": "2025-01-24T09:44:23.399963Z",
+    "lead_time": 151.06
+  },
+  {
+    "text": "\"मैं Blooming Vale Public School, कोटद्वार, उत्‍तराखंड से कक्षा 10 का छात्र हूं।\"",
+    "id": 14569,
+    "label": [
+      {
+        "start": 1,
+        "end": 4,
+        "text": "मैं",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 13,
+        "text": "Blooming",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "text": "Vale",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "text": "Public",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "text": "School",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 33,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 42,
+        "text": "कोटद्वार",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 43,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 54,
+        "text": "उत्‍तराखंड",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 57,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 63,
+        "text": "कक्षा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 66,
+        "text": "10",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 69,
+        "text": "का",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 75,
+        "text": "छात्र",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 79,
+        "text": "हूं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 80,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 37,
+    "created_at": "2025-01-24T09:45:40.099893Z",
+    "updated_at": "2025-01-24T09:45:40.099893Z",
+    "lead_time": 75.29
+  },
+  {
+    "text": "\"मैं तीनों नए डायलॉग partners – साऊदी अरब, Egypt और Qatar – का भी स्वागत करता हूं।\"",
+    "id": 14570,
+    "label": [
+      {
+        "start": 1,
+        "end": 4,
+        "text": "मैं",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 10,
+        "text": "तीनों",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "text": "नए",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "text": "डायलॉग",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "text": "partners",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 31,
+        "text": "–",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "text": "साऊदी",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 41,
+        "text": "अरब",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 42,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 48,
+        "text": "Egypt",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 51,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 57,
+        "text": "Qatar",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 59,
+        "text": "–",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 62,
+        "text": "का",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 65,
+        "text": "भी",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 72,
+        "text": "स्वागत",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 77,
+        "text": "करता",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 81,
+        "text": "हूं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 82,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 38,
+    "created_at": "2025-01-24T09:54:12.078407Z",
+    "updated_at": "2025-01-24T09:54:12.078407Z",
+    "lead_time": 151.672
+  },
+  {
+    "text": "\"ईरान के चाबहार port में हमारा निवेश, और International North-South Corridor के प्रति हमारा प्रयास, इसी वास्तविकता से प्रेरित है।\"",
+    "id": 14571,
+    "label": [
+      {
+        "start": 1,
+        "end": 5,
+        "text": "ईरान",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "text": "चाबहार",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "text": "port",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 30,
+        "text": "हमारा",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "text": "निवेश",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 37,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "text": "और",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 54,
+        "text": "International",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 66,
+        "text": "North-South",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 75,
+        "text": "Corridor",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 78,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 84,
+        "text": "प्रति",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 90,
+        "text": "हमारा",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 97,
+        "text": "प्रयास",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 98,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 102,
+        "text": "इसी",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 113,
+        "text": "वास्तविकता",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 114,
+        "end": 116,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 117,
+        "end": 124,
+        "text": "प्रेरित",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 125,
+        "end": 127,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 127,
+        "end": 128,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 39,
+    "created_at": "2025-01-24T09:56:40.517711Z",
+    "updated_at": "2025-01-24T09:56:40.517711Z",
+    "lead_time": 144.093
+  },
+  {
+    "text": "\"ऑयल, गैस, पोर्ट, एयरपोर्ट, पावर, ऐसे करीब 100 assets को Monetize करने का लक्ष्य हमने रखा है।\"",
+    "id": 14572,
+    "label": [
+      {
+        "start": 1,
+        "end": 4,
+        "text": "ऑयल",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "text": "गैस",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "पोर्ट",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 26,
+        "text": "एयरपोर्ट",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 27,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "text": "पावर",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 33,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 37,
+        "text": "ऐसे",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 42,
+        "text": "करीब",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 46,
+        "text": "100",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 53,
+        "text": "assets",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 56,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 65,
+        "text": "Monetize",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 70,
+        "text": "करने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 73,
+        "text": "का",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 80,
+        "text": "लक्ष्य",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 85,
+        "text": "हमने",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 89,
+        "text": "रखा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 92,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 93,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 40,
+    "created_at": "2025-01-24T10:08:20.392303Z",
+    "updated_at": "2025-01-24T10:08:20.392303Z",
+    "lead_time": 222.599
+  },
+  {
+    "text": "ऐसे सभी साथियों का स्‍वागत है और मेरा सुझाव है GIFT City में International Financial Centre से बहुत मदद मिलेगी।",
+    "id": 14573,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "ऐसे",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 7,
+        "text": "सभी",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 15,
+        "text": "साथियों",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "text": "का",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 26,
+        "text": "स्‍वागत",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 29,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "text": "मेरा",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "text": "सुझाव",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 46,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 51,
+        "text": "GIFT",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 56,
+        "text": "City",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 74,
+        "text": "International",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 84,
+        "text": "Financial",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 91,
+        "text": "Centre",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 94,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 99,
+        "text": "बहुत",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 103,
+        "text": "मदद",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 104,
+        "end": 110,
+        "text": "मिलेगी",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 110,
+        "end": 111,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 29,
+    "created_at": "2025-01-24T09:21:49.585419Z",
+    "updated_at": "2025-01-24T09:21:49.585419Z",
+    "lead_time": 289.567
+  },
+  {
+    "text": "IIT Bombay देश के उन संस्थानों में से है जो New India की New Technology के लिए काम कर रहा है।",
+    "id": 14574,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "IIT",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 10,
+        "text": "Bombay",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "text": "देश",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "text": "उन",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 30,
+        "text": "संस्थानों",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 37,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 43,
+        "text": "जो",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 47,
+        "text": "New",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 53,
+        "text": "India",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 56,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "text": "New",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 71,
+        "text": "Technology",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 74,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 78,
+        "text": "लिए",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 82,
+        "text": "काम",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 85,
+        "text": "कर",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 89,
+        "text": "रहा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 92,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 93,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 30,
+    "created_at": "2025-01-24T09:24:15.049569Z",
+    "updated_at": "2025-01-24T09:24:15.049569Z",
+    "lead_time": 143.653
+  },
+  {
+    "text": "Solar Energy के अलावा Biofuel भी आने वाले समय में Clean Energy का एक बहुत बड़ा source सिद्ध होने वाला है।",
+    "id": 14575,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "Solar",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 12,
+        "text": "Energy",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "text": "अलावा",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 29,
+        "text": "Biofuel",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "text": "भी",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "text": "आने",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 41,
+        "text": "वाले",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 45,
+        "text": "समय",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 49,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 55,
+        "text": "Clean",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 62,
+        "text": "Energy",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 65,
+        "text": "का",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 68,
+        "text": "एक",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 73,
+        "text": "बहुत",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 78,
+        "text": "बड़ा",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 85,
+        "text": "source",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 91,
+        "text": "सिद्ध",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 96,
+        "text": "होने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 101,
+        "text": "वाला",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 102,
+        "end": 104,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 104,
+        "end": 105,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 31,
+    "created_at": "2025-01-24T09:29:30.777316Z",
+    "updated_at": "2025-01-24T09:29:30.777316Z",
+    "lead_time": 313.939
+  },
+  {
+    "text": "IIT को देश और दुनिया Indian Institute of Technology के रूप में जानती है।",
+    "id": 14576,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "IIT",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "text": "देश",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "text": "दुनिया",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "text": "Indian",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "text": "Institute",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "text": "of",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 51,
+        "text": "Technology",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 54,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 58,
+        "text": "रूप",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 62,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 68,
+        "text": "जानती",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 71,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 72,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 32,
+    "created_at": "2025-01-24T09:31:44.769908Z",
+    "updated_at": "2025-01-24T09:31:44.769908Z",
+    "lead_time": 132.121
+  },
+  {
+    "text": "यही कारण है कि हमने Start Up India और Atal Innovation Mission जैसे अभियान शुरु किए हैं जिनके परिणाम अब मिलने लगे हैं।",
+    "id": 14577,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "यही",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 8,
+        "text": "कारण",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "text": "कि",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "text": "हमने",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "text": "Start",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "text": "Up",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "text": "India",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 37,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 42,
+        "text": "Atal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 53,
+        "text": "Innovation",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 61,
+        "text": "Mission",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 66,
+        "text": "जैसे",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 73,
+        "text": "अभियान",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 78,
+        "text": "शुरु",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 82,
+        "text": "किए",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 86,
+        "text": "हैं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 92,
+        "text": "जिनके",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 99,
+        "text": "परिणाम",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 102,
+        "text": "अब",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 108,
+        "text": "मिलने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 112,
+        "text": "लगे",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 113,
+        "end": 116,
+        "text": "हैं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 116,
+        "end": 117,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 33,
+    "created_at": "2025-01-24T09:36:27.665475Z",
+    "updated_at": "2025-01-24T09:36:27.665475Z",
+    "lead_time": 280.186
+  }
+]
